@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.pyc
 
+
 # C extensions
 *.so
 
@@ -175,3 +176,6 @@ cython_debug/
 poetry.lock
 
 .data
+
+.DS_Store
+.DS_Store/
