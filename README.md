@@ -1,6 +1,6 @@
 [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
 
-This is a code example for the post written here:  [Poetry : A Better Alternative to requirements.txt. The Maven for Python ?](https://rovingdev.com/p/poetry-a-better-alternative-to-requirementstxt)
+This repo contains code sample related to this tutorial:  [Poetry : A Better Alternative to requirements.txt. The Maven for Python ?](https://rovingdev.com/p/poetry-a-better-alternative-to-requirementstxt)
 
 ## Info
 This is example for usage of poetry for a python project.
