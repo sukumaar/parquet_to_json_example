@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "parquet2json"
+version = "0.1.0"
+description = ""
+authors = ["sukumaar"]
+readme = "README.md"
+packages = [{include = "parquet2json"}]
+
+[tool.poetry.dependencies]
+python = "^3.13"
+polars = "1.18.0"
+argparse = "1.4.0"
+
+
+[build-system]
+requires = ["poetry-core==1.9.1"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+parquet2json = 'parquet2json.__main__:main'
